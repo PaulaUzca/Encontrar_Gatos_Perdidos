@@ -20,7 +20,7 @@
 
 [proyecto_gaticos_yolo.ipynb](proyecto_gaticos_yolo.ipynb) - Notebook con entrenamiento de red yolov8 para detectar caras de gatos
 
-[proyecto_gaticos_procesamiento.ipynb(proyecto_gaticos_procesamiento.ipynb) - Notebook de preprocesamiento de los datos para crear el dataset
+[proyecto_gaticos_procesamiento.ipynb](proyecto_gaticos_procesamiento.ipynb) - Notebook de preprocesamiento de los datos para crear el dataset
 
 [proyecto_gatos_final.ipynb](proyecto_gatos_final.ipynb) - Notebook sobre construcción del modelo siamés para identificación de gatos
 
